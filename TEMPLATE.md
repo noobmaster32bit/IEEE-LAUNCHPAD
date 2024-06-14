@@ -1,59 +1,56 @@
-# Full Name 
+# Akshay A N
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi all! I am Akshay A N, a passionate and enthusiastic fresher hailing from the Kollam disctrict in Kerala. I have been in the tech world since I started my bachelor's degree in Computer Science, but I realised the wonders of the tech world much later.
+> An aspiring fullstack developer, with a passion for creating responsive and innovative web applications.
+> I am proficient in languages like Python, JavaScript, C and have hands on experience with technologies and frameworks like HTML, CSS, Bootstrap, Python Django, React, Angular, built API endpoints for backend services using Django restframework and also worked with databases like MySql, Firebase. 
+> As a dedicated individual I have an inquisitive drive for improvements in order to bring what is best to the table.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               | Repo Link                                |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|
+| IEEE vTools         | IEEE student branch management web portal                                 | [Github](https://github.com/username/project1)|
+| HMS (Health Management System)  | An IoT based health monitoring mobile application             | [Github](https://github.com/noobmaster32bit/Health-Management-System)|
+| fundflow  | Monthly expense tracker built using Python Django, RestApi, JS             | [Github](https://github.com/noobmaster32bit/fundFlow)|
+| trendFactory  | e-commerce web application built using Python Django, RestApi             | [Github](https://github.com/noobmaster32bit/trendFactory)|
+| Bikekart  | Web portal for buying and selling used motorbikes              | [Github]()|
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Organized various technical and non-technical competitions in college level.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Focused on landing a tech job where I can improve my skills.
+- I love experimenting with various new technologies. I believe in delivering values.
 
+  
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Kerala has a rich history of innovations and enterpreneurship which helps itself to do well in the startup ecosystem in the future.
+- With the outreach of technology to everyone, upcoming of many student communities and support from the concerning bodies for new enterpreneurs, the path to success in tech ecosystem is not far from reality. 
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+-  Been a student member of mulearn since 2021.
+-  Actively part of student communities in platforms such as Discord and Telegram.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- VSCode
+- Command Prompt
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- [Hackerrank](https://www.hackerrank.com/profile/akshayajikumar10)
+- [Kaggle](https://www.kaggle.com/akshayajikumar)
+- [Linkedin](www.linkedin.com/in/akshayajikumar)
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
-
