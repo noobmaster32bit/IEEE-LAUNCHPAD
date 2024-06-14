@@ -1,152 +1,55 @@
-# IEEE LAUNCHPAD Job Fair
+# Akshay A N
 
+### About Me
 
+> Hi all! I am Akshay A N, a passionate and enthusiastic fresher hailing from the Kollam disctrict in Kerala. I have been in the tech world since I started my bachelor's degree in Computer Science, but I realised the wonders of the tech world much later.
+> An aspiring fullstack developer, with a passion for creating responsive and innovative web applications.
+> I am proficient in languages like Python, JavaScript, C and have hands on experience with technologies and frameworks like HTML, CSS, Bootstrap, Python Django, React, Angular, built API endpoints for backend services using Django restframework and also worked with databases like MySql, Firebase. 
+> As a dedicated individual I have an inquisitive drive for improvements in order to bring what is best to the table.
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Repo Link                                |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|
+| IEEE vTools         | IEEE student branch management web portal                                 | [Github](https://github.com/username/project1)|
+| HMS (Health Management System)  | An IoT based health monitoring mobile application             | [Github](https://github.com/noobmaster32bit/Health-Management-System)|
+| fundflow  | Monthly expense tracker built using Python Django, RestApi, JS             | [Github](https://github.com/noobmaster32bit/fundFlow)|
+| trendFactory  | e-commerce web application built using Python Django, RestApi             | [Github](https://github.com/noobmaster32bit/trendFactory)|
+| Bikekart  | Web portal for buying and selling used motorbikes              | [Github]()|
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+#### Leadership and Influence:
 
+- Organized various technical and non-technical competitions in college level.
 
+#### Career Plan:
 
+- Focused on landing a tech job where I can improve my skills.
+- I love experimenting with various new technologies. I believe in delivering values.
 
+  
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- Kerala has a rich history of innovations and enterpreneurship which helps itself to do well in the startup ecosystem in the future.
+- With the outreach of technology to everyone, upcoming of many student communities and support from the concerning bodies for new enterpreneurs, the path to success in tech ecosystem is not far from reality. 
 
+#### History of Community Engagement:
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+-  Been a student member of mulearn since 2021.
+-  Actively part of student communities in platforms such as Discord and Telegram.
 
-#
+#### Highly Used Software Tools:
 
+- VSCode
+- Command Prompt
 
+#### Competitive Website Profiles:
 
-
-<div align="center">
-
-
-
-
-# How to Participate
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+- [Hackerrank](https://www.hackerrank.com/profile/akshayajikumar10)
+- [Kaggle](https://www.kaggle.com/akshayajikumar)
+- [Linkedin](www.linkedin.com/in/akshayajikumar)
 
 
 
